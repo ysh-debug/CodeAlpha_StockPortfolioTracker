@@ -1,0 +1,4 @@
+# Stock Portfolio Tracker
+# No external libraries are required.
+# This project uses only Python's built-in standard library (datetime).
+# Python 3.7 or newer is recommended.
